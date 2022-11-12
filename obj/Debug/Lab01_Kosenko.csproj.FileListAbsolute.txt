@@ -1,0 +1,11 @@
+C:\Users\Alexandra\source\repos\Lab01_Kosenko\Lab01_Kosenko\bin\Debug\Lab01_Kosenko.exe.config
+C:\Users\Alexandra\source\repos\Lab01_Kosenko\Lab01_Kosenko\bin\Debug\Lab01_Kosenko.exe
+C:\Users\Alexandra\source\repos\Lab01_Kosenko\Lab01_Kosenko\bin\Debug\Lab01_Kosenko.pdb
+C:\Users\Alexandra\source\repos\Lab01_Kosenko\Lab01_Kosenko\obj\Debug\Lab01_Kosenko.csproj.AssemblyReference.cache
+C:\Users\Alexandra\source\repos\Lab01_Kosenko\Lab01_Kosenko\obj\Debug\Lab01_Kosenko.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alexandra\source\repos\Lab01_Kosenko\Lab01_Kosenko\obj\Debug\Lab01_Kosenko.Form1.resources
+C:\Users\Alexandra\source\repos\Lab01_Kosenko\Lab01_Kosenko\obj\Debug\Lab01_Kosenko.Properties.Resources.resources
+C:\Users\Alexandra\source\repos\Lab01_Kosenko\Lab01_Kosenko\obj\Debug\Lab01_Kosenko.csproj.GenerateResource.cache
+C:\Users\Alexandra\source\repos\Lab01_Kosenko\Lab01_Kosenko\obj\Debug\Lab01_Kosenko.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\source\repos\Lab01_Kosenko\Lab01_Kosenko\obj\Debug\Lab01_Kosenko.exe
+C:\Users\Alexandra\source\repos\Lab01_Kosenko\Lab01_Kosenko\obj\Debug\Lab01_Kosenko.pdb
